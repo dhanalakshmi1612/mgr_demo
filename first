@@ -1,4 +1,8 @@
 this is sample doc from remote file
 second from dhana global
 third one from global
+<<<<<<< HEAD
 hai i m from local dhaan_2times
+=======
+fouth from globsl 
+>>>>>>> 201dca5d6d8141f15868364a36b45cb1c195b56d
